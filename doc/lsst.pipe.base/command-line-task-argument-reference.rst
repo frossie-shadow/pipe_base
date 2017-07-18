@@ -132,9 +132,13 @@ Otherwise, named arguments are optional.
 
    The ``-L``/``--loglevel`` argument can appear multiple times.
 
+   For more information, see :ref:`command-line-task-logging-howto`.
+
 .. option:: --longlog
 
    **Enable the verbose logging format.**
+
+   See :ref:`command-line-task-logging-howto-longlog` for more information.
 
 .. option:: --debug
 
