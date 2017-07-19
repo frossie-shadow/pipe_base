@@ -191,6 +191,8 @@ Otherwise, named arguments are optional.
 
    See also :option:`--timeout`.
 
+   See :ref:`command-line-task-parallel-howto` for more information.
+
 .. option:: --profile <profile>
 
    **Dump cProfile statistics to the named file.**
