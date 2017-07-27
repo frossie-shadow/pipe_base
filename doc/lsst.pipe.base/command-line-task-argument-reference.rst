@@ -68,11 +68,15 @@ Otherwise, named arguments are optional.
 
    The ``-c``/``--config`` argument can appear multiple times.
 
+   See :ref:`command-line-task-config-howto-config` for more information.
+
 .. option:: -C <configfile>, --configfile <configfile>
 
    **Task configuration override file(s).**
 
    The ``-C``/``--configfile`` argument can appear multiple times.
+
+   See :ref:`command-line-task-config-howto-configfile` for more information.
 
 .. option:: --clobber-config
 
